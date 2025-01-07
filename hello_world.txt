@@ -1,1 +1,2 @@
 Hi Odin!
+Testing new Git message
